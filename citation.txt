@@ -1,0 +1,9 @@
+@misc{REPO093,
+    author = "Tang, Shitao and Zhang, Fuyang and Chen, Jiacheng and Wang, Peng and Furukawa, Yasutaka",
+    archiveprefix = "arXiv",
+    eprint = "2307.01097",
+    primaryclass = "cs.CV",
+    title = "{MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion}",
+    url = "https://arxiv.org/abs/2307.01097",
+    year = "2023"
+}
